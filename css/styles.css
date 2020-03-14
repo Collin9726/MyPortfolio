@@ -19,9 +19,11 @@ a:hover{
     border: 1px #f4f4f4 solid;    
     width: 100%;
     height: 3em;
-    padding: 10px;    
-    background-image:url("../images/topnavbar.jpeg");    
-    background-size: cover;      
+    padding: 10px;  
+    background-color: rgb(24, 24, 58);  
+    color: #f4f4f4;
+    /*background-image:url("../images/topnavbar.jpeg");    
+    background-size: cover;  */    
 }
 
 .aboutme{
@@ -37,6 +39,14 @@ a:hover{
     position: relative;    
     float: right;
     word-spacing: 0.3em;
+}
+
+.topnavbarLinks a{
+    color: #f4f4f4;
+}
+
+.topnavbarLinks a:hover{
+    color: brown;
 }
 
 .homepage{        
@@ -285,6 +295,20 @@ a:hover{
     top: 50%;
 }
 
+
+.socialmedia{
+    position: fixed;
+    left: 6%;
+    top: 40%;
+}
+
+.socialmedia img:hover{
+    opacity: 0.5;
+}
+
+.interestbold{
+    font-weight: 600;
+}
 
 
 
