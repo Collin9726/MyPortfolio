@@ -12,7 +12,7 @@ a{
 }
 
 a:hover{
-    color: blue;
+    color: brown;
 }
 
 .topnavbar {        
@@ -24,7 +24,7 @@ a:hover{
     background-size: cover;      
 }
 
-#aboutme{
+.aboutme{
     word-spacing: normal;
 }
 
@@ -179,7 +179,7 @@ a:hover{
     color: black;
     font-weight: 500;
     background-color: rgba(174, 199, 182, 0.6);  
-    height: 73%;      
+    height: 60%;      
 }
 
 
@@ -214,7 +214,7 @@ a:hover{
     color: black;
     font-weight: 500;
     background-color: rgba(146, 123, 101, 0.8);  
-    height: 73%;      
+    height: 60%;      
 }
 
 
@@ -259,6 +259,34 @@ a:hover{
     list-style-type: square;
     line-height: 2em;
 }
+
+
+
+.bottomnavbar {        
+    border: 1px #f4f4f4 solid;   
+    margin-top: 10px; 
+    width: 100%;
+    height: 3em;
+    padding: 10px;    
+    background-color: rgb(10, 10, 31);   
+    text-align: center;   
+}
+
+.bottomnavbar a{
+    color: #f4f4f4;
+}
+
+.bottomnavbar a:hover{
+    color: brown;
+}
+
+.bottomnavbarContent{
+    position: relative;
+    top: 50%;
+}
+
+
+
 
 
     
