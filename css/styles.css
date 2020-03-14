@@ -218,8 +218,47 @@ a:hover{
 }
 
 
+.interests{
+    position: relative;
+    border: 1px #f4f4f4 solid;
+    margin-top: 30px;     
+    width: 100%;
+    height: 400px;
+    padding: 10px;
+    background-image: url("../images/interests.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    line-height: 1.5em;
+    text-align: center;
+}
 
+.interests h2{
+    font-weight: 1000;
+    font-size: 1.5em;
+}
 
+.interestlist{
+    float: left;
+    width: 70%;
+    text-align: left;
+    padding: 0px 10px;
+    margin: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    box-sizing: border-box;
+    color: black;
+    font-weight: 500;
+    background-color: rgba(155, 154, 154, 0.7);  
+    height: 30%;    
+    position: relative;
+    left:30%;     
+}
+
+.interestlist li{
+    list-style-type: square;
+    line-height: 2em;
+}
 
 
     
