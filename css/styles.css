@@ -117,7 +117,7 @@ a:hover{
 .professional{
     position: relative;
     border: 1px #f4f4f4 solid;
-    margin-top: 10px;     
+    margin-top: 30px;     
     width: 100%;
     height: 400px;
     padding: 10px;
@@ -151,6 +151,44 @@ a:hover{
     text-align: left;
 }
 
+
+.education{
+    position: relative;
+    border: 1px #f4f4f4 solid;
+    margin-top: 30px;     
+    width: 100%;
+    height: 400px;
+    padding: 10px;
+    background-image: url("../images/education.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+.education h2{
+    font-weight: 1000;
+    font-size: 1.5em;
+}
+
+.schools{
+    float: left;
+    width: 31%;
+    text-align: left;
+    padding: 0px 10px;
+    margin: 10px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    color: black;
+    font-weight: 500;
+    background-color: rgba(174, 199, 182, 0.6);  
+    height: 73%;      
+}
+
+.schools h4{
+    text-align: left;
+}
 
 
 
