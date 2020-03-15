@@ -335,7 +335,7 @@ a:hover{
     top: 10%;
     left: 5%; 
     padding: 0px;   
-    background-image: url("../images/me1.JPEG");
+    background-image: url("../images/equatorial.jpg");
     background-size: cover;
 }
 
@@ -412,7 +412,7 @@ a:hover{
     top: 10%;
     left: 5%; 
     padding: 0px;   
-    background-image: url("../images/me1.JPEG");
+    background-image: url("../images/kp.jpg");
     background-size: cover;
 }
     
@@ -440,7 +440,7 @@ a:hover{
     top: 10%;
     left: 5%; 
     padding: 0px;   
-    background-image: url("../images/me1.JPEG");
+    background-image: url("../images/jkuat.jpg");
     background-size: cover;
 }
 
@@ -479,7 +479,7 @@ a:hover{
     top: 10%;
     right: 5%; 
     padding: 0px;   
-    background-image: url("../images/me1.JPEG");
+    background-image: url("../images/moringa.png");
     background-size: cover;
 }
 
@@ -517,7 +517,20 @@ a:hover{
     top: 10%;
     left: 5%; 
     padding: 0px;   
-    background-image: url("../images/me1.JPEG");
+    background-image: url("../images/goethe.jpg");
+    background-size: cover;
+}
+
+.e4photo{
+    position: relative;
+    float: right;
+    border: 20px rgba(174, 199, 182) solid;
+    width: 30%;
+    height:70%;
+    top: 10%;
+    right: 5%; 
+    padding: 0px;   
+    background-image: url("../images/alliance.jpg");
     background-size: cover;
 }
 
@@ -545,7 +558,7 @@ a:hover{
     top: 10%;
     left: 5%; 
     padding: 0px;   
-    background-image: url("../images/me1.JPEG");
+    background-image: url("../images/code.png");
     background-size: cover;
 }
 
@@ -584,7 +597,7 @@ a:hover{
     top: 10%;
     right: 5%; 
     padding: 0px;   
-    background-image: url("../images/me1.JPEG");
+    background-image: url("../images/private-island.png");
     background-size: cover;
 }
 
@@ -627,7 +640,7 @@ a:hover{
     top: 10%;
     left: 5%; 
     padding: 0px;   
-    background-image: url("../images/me1.JPEG");
+    background-image: url("../images/football.JPG");
     background-size: cover;
 }
 
@@ -667,7 +680,7 @@ a:hover{
     top: 10%;
     right: 5%; 
     padding: 0px;   
-    background-image: url("../images/me1.JPEG");
+    background-image: url("../images/language.JPG");
     background-size: cover;
 }
 
@@ -706,6 +719,6 @@ a:hover{
     top: 10%;
     left: 5%; 
     padding: 0px;   
-    background-image: url("../images/me1.JPEG");
+    background-image: url("../images/fifa.png");
     background-size: cover;
 }
