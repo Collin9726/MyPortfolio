@@ -583,9 +583,13 @@ a:hover{
     border: 1px #f4f4f4 solid;
     margin-top: 20px;    
     width: 100%;
-    height: 500px;
+    height: 700px;
     padding: 10px;    
     color: black;
+}
+
+#s2note{    
+    font-size: small;
 }
 
 .s2photo{
@@ -722,3 +726,5 @@ a:hover{
     background-image: url("../images/fifa.png");
     background-size: cover;
 }
+
+
