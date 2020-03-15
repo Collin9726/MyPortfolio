@@ -318,7 +318,7 @@ a:hover{
     border: 1px #f4f4f4 solid;
     margin-top: 10px;     
     width: 100%;
-    height: 600px;
+    height: 500px;
     padding: 10px;
     background-image: url("../images/professional.jpg");
     background-repeat: no-repeat;
@@ -360,7 +360,7 @@ a:hover{
     border: 1px #f4f4f4 solid;
     margin-top: 20px;    
     width: 100%;
-    height: 600px;
+    height: 500px;
     padding: 10px;    
     color: black;
 }
@@ -398,7 +398,7 @@ a:hover{
     border: 1px #f4f4f4 solid;
     margin-top: 10px;     
     width: 100%;
-    height: 600px;
+    height: 500px;
     padding: 10px;    
     color: black;
 }
@@ -416,3 +416,107 @@ a:hover{
     background-size: cover;
 }
     
+/*------------education-------------*/
+
+.e1page{        
+    position: relative;
+    border: 1px #f4f4f4 solid;
+    margin-top: 10px;     
+    width: 100%;
+    height: 500px;
+    padding: 10px;
+    background-image: url("../images/education.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+
+.e1photo{
+    position: relative;
+    float: left;
+    border: 20px #ffffff solid;
+    width: 30%;
+    height:70%;
+    top: 10%;
+    left: 5%; 
+    padding: 0px;   
+    background-image: url("../images/me1.JPEG");
+    background-size: cover;
+}
+
+.e1content{
+    position: relative;
+    float: right;
+    border: 20px rgba(174, 199, 182) solid;
+    width: 40%;
+    height:70%;
+    top: 10%;
+    right: 5%;    
+    text-align: left;    
+    font-weight: 500;
+    line-height: 1.5em;
+    color: black;
+    background-color: rgba(174, 199, 182);
+}
+
+
+.e2page{        
+    position: relative;
+    border: 1px #f4f4f4 solid;
+    margin-top: 20px;    
+    width: 100%;
+    height: 500px;
+    padding: 10px;    
+    color: black;
+}
+
+.e2photo{
+    position: relative;
+    float: right;
+    border: 20px rgba(174, 199, 182) solid;
+    width: 30%;
+    height:70%;
+    top: 10%;
+    right: 5%; 
+    padding: 0px;   
+    background-image: url("../images/me1.JPEG");
+    background-size: cover;
+}
+
+.e2content{
+    position: relative;
+    float: left;
+    border: 20px rgba(174, 199, 182) solid;
+    width: 40%;
+    height:70%;
+    top: 10%;
+    left: 5%;    
+    text-align: left;    
+    font-weight: 500;
+    line-height: 1.5em;
+    color: black;
+    background-color: rgba(174, 199, 182);
+}
+
+.e3page{        
+    position: relative;
+    border: 1px #f4f4f4 solid;
+    margin-top: 10px;     
+    width: 100%;
+    height: 500px;
+    padding: 10px;    
+    color: black;
+}
+
+.e3photo{
+    position: relative;
+    float: left;
+    border: 20px rgba(174, 199, 182) solid;
+    width: 30%;
+    height:70%;
+    top: 10%;
+    left: 5%; 
+    padding: 0px;   
+    background-image: url("../images/me1.JPEG");
+    background-size: cover;
+}
